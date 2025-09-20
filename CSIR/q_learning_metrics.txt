@@ -1,0 +1,4 @@
+Average Reward: 23.6326
+Success Rate: 1.0
+Average Path Length: 65.1382
+Training Time: 65.54092502593994s
